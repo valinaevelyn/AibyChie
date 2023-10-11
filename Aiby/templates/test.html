@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <link rel="stylesheet" href="styles.css"> -->
+  <style>
+    .circular-button {
+  width: 100px; /* Adjust the width and height to set the size of the button */
+  height: 100px;
+  border-radius: 50%; /* Make it a circle by setting border-radius to 50% */
+  overflow: hidden; /* Ensure content within the circle is visible */
+  background-color: #3498db; /* Background color of the button */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circular-button img {
+  width: 80%; /* Adjust the size of the image */
+  height: auto;
+  border: none;
+}
+
+body{
+  background-color: black;
+}
+
+  </style>
+  <title>Circular Image Button</title>
+</head>
+<body>
+  <div class="circular-button">
+    <img src="your-image-source.jpg" alt="Button Image">
+  </div>
+</body>
+</html>

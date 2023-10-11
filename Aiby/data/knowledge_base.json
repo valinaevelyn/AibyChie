@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "Halo siapa kamu",
+      "answer": " Halo, saya Aiby, robot asisten pribadi perbankan milik Agnes, Richie, dan Valina. Saya diciptakan untuk membantu Anda dengan berbagai masalah keuangan Anda. Bagaimana saya bisa membantu Anda hari ini?"
+    },
+    {
+      "question": "Bagaimana cara mengecek rekening saya",
+      "answer": " Hai! Untuk mengecek rekening Anda, cobalah mengunjungi situs web bank Anda atau menghubungi layanan pelanggan bank Anda. Anda juga dapat menggunakan aplikasi mobile bank Anda untuk mengecek rekening Anda. Selamat mencoba!"
+    },
+    {
+      "question": "Halo Bisakah kamu membantu saya untuk membuatkan tabungan baru",
+      "answer": " Tentu saja! Saya bisa membantu Anda membuat tabungan baru di AibyChie. Silakan hubungi layanan pelanggan kami untuk informasi lebih lanjut tentang cara membuka tabungan baru. Kami juga menawarkan berbagai jenis tabungan, termasuk tabungan berjangka, tabungan reguler, dan tabungan gabungan. Jika Anda membutuhkan bantuan lebih lanjut, silakan hubungi layanan pelanggan kami."
+    },
+    {
+      "question": "Bisakah kamu buatkan aku tabungan rekening",
+      "answer": " Tentu saja! Kami menawarkan berbagai jenis tabungan rekening yang dapat memenuhi kebutuhan Anda. Kami juga menawarkan berbagai fitur dan layanan tambahan yang dapat membantu Anda mengelola dan mengoptimalkan tabungan Anda. Silakan hubungi kami untuk informasi lebih lanjut tentang tabungan rekening kami."
+    },
+    {
+      "question": "saya lupa password akun saya Bisakah anda membantu saya",
+      "answer": " Hai, dengan senang hati. Mohon dapatkan bantuan dari layanan pelanggan kami di nomor 1-800-123-4567. Kami juga dapat membantu Anda dengan mengirimkan tautan untuk mereset kata sandi Anda."
+    },
+    {
+      "question": "Halo",
+      "answer": "Hai! Ini Aiby. Bagaimana saya bisa membantu Anda hari ini?"
+    },
+    {
+      "question": "Bagaimana kabarmu?",
+      "answer": "Saya baik! Terima kasih telah bertanya. Bagaimana saya bisa membantu Anda hari ini?"
+    },
+    {
+      "question": "Apa layanan perbankan yang Anda tawarkan?",
+      "answer": "Kami menawarkan berbagai layanan perbankan, termasuk pembukaan akun, setoran, penarikan, transfer dana, pinjaman, kartu kredit, dan lainnya. Bagaimana saya bisa membantu Anda dengan layanan tertentu?"
+    },
+    {
+      "question": "Bagaimana cara membuka akun bank baru?",
+      "answer": "Untuk membuka akun bank baru, Anda dapat mengunjungi cabang terdekat dengan dokumen identifikasi yang diperlukan seperti bukti identitas, bukti alamat, dan dokumen lain yang diperlukan. Alternatifnya, Anda juga bisa membuka akun secara online melalui situs web atau aplikasi perbankan seluler kami. Jika Anda memiliki pertanyaan khusus mengenai proses pembukaan akun, silakan bertanya!"
+    },
+    {
+      "question": "Dokumen apa yang dibutuhkan untuk membuka akun bank?",
+      "answer": "Dokumen yang diperlukan dapat bervariasi tergantung pada jenis akun dan lokasi Anda. Umumnya, Anda akan memerlukan bukti identitas, seperti paspor yang valid, SIM, atau kartu identifikasi nasional. Anda juga memerlukan bukti alamat, yang bisa berupa tagihan utilitas terbaru, laporan bank, atau perjanjian sewa. Selain itu, beberapa bank mungkin memerlukan dokumen atau informasi tambahan. Sebaiknya Anda cek dengan bank kami atau kunjungi situs web kami untuk persyaratan yang tepat."
+    },
+    {
+      "question": "Bagaimana cara melakukan setoran ke akun saya?",
+      "answer": "Ada beberapa cara untuk melakukan setoran ke akun Anda. Anda dapat mengunjungi cabang kami dan melakukan setoran tunai atau cek di meja teller. Selain itu, Anda mungkin bisa menggunakan ATM kami untuk setoran tunai. Perbankan online dan aplikasi perbankan seluler juga menyediakan opsi untuk mentransfer dana dari akun lain ke akun bank Anda. Jika Anda memerlukan bantuan dengan metode setoran tertentu, silakan beri tahu saya!"
+    },
+    {
+      "question": "Bagaimana cara mentransfer dana ke akun bank lain?",
+      "answer": "Anda dapat mentransfer dana ke akun bank lain melalui perbankan online atau aplikasi perbankan seluler kami. Untuk melakukannya, biasanya Anda memerlukan nomor rekening bank penerima, nama penerima, dan nomor rute bank penerima atau kode SWIFT untuk transfer internasional. Anda juga bisa melakukan transfer secara langsung di cabang kami. Jika Anda memerlukan bantuan dengan transfer tertentu, jangan ragu bertanya!"
+    },
+    {
+      "question": "Apa pilihan pinjaman yang Anda tawarkan?",
+      "answer": "Kami menawarkan berbagai pilihan pinjaman, termasuk pinjaman pribadi, pinjaman rumah, pinjaman mobil, dan pinjaman bisnis. Kelayakan dan syarat pinjaman bisa bervariasi tergantung pada faktor seperti riwayat kredit, pendapatan, dan produk pinjaman tertentu. Sebaiknya kunjungi cabang kami atau cek situs web kami untuk informasi terperinci mengenai pilihan pinjaman kami dan proses aplikasi."
+    },
+    {
+      "question": "Bagaimana cara mengajukan kartu kredit?",
+      "answer": "Untuk mengajukan kartu kredit, Anda dapat mengunjungi cabang kami dan berbicara dengan salah satu perwakilan kami yang akan memandu Anda melalui proses aplikasi. Anda juga bisa cek situs web kami untuk aplikasi kartu kredit online. Proses persetujuan biasanya melibatkan penilaian kredit Anda berdasarkan faktor seperti skor kredit, pendapatan, dan informasi lain yang relevan. Jika Anda memiliki pertanyaan khusus mengenai penawaran kartu kredit kami atau proses aplikasi, silakan bertanya!"
+    },
+    {
+      "question": "Saya memiliki masalah dengan akun saya. Apa yang harus saya lakukan?",
+      "answer": "Saya minta maaf atas ketidaknyamanannya. Jika Anda menghadapi masalah dengan akun Anda, sebaiknya segera hubungi tim dukungan pelanggan kami. Mereka akan dapat membantu Anda menyelesaikan masalah tersebut. Anda bisa menghubungi dukungan pelanggan kami melalui garis bantuan atau dengan mengunjungi cabang kami. Mohon berikan informasi terperinci mengenai masalah yang Anda alami untuk membantu mereka membantu Anda secara lebih efektif."
+    },
+    {
+      "question": "Apa rincian kontak dukungan pelanggan Anda?",
+      "answer": "Anda dapat menghubungi tim dukungan pelanggan kami dengan menelepon garis bantuan kami di [masukkan nomor garis bantuan]. Perwakilan dukungan kami tersedia [sebutkan jam kerja dan hari]. Anda juga dapat mengunjungi cabang terdekat kami untuk berbicara dengan perwakilan secara langsung. Kami berusaha memberikan layanan pelanggan yang sangat baik, jadi jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau masalah!"
+    },
+    {
+      "question": "Bagaimana cara memeriksa saldo akun saya?",
+      "answer": "Ada beberapa cara untuk memeriksa saldo akun Anda. Anda dapat masuk ke akun perbankan online Anda atau menggunakan aplikasi perbankan seluler kami untuk melihat saldo Anda. Selain itu, Anda dapat mengunjungi ATM untuk memeriksa saldo Anda, atau Anda bisa menghubungi layanan telepon perbankan otomatis kami untuk pertanyaan saldo. Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan khusus mengenai saldo akun Anda, beri tahu saya!"
+    },
+    {
+      "question": "Apakah saya bisa mengajukan pinjaman bank secara online?",
+      "answer": "Ya, Anda mungkin bisa mengajukan beberapa jenis pinjaman secara online. Kami menawarkan proses"
+    },
+    {
+      "question": "Apa pilihan investasi yang Anda tawarkan?",
+      "answer": "Kami menyediakan berbagai pilihan investasi, seperti tabungan, deposito, reksa dana, saham, dan lainnya. Setiap pilihan memiliki risiko dan potensi pengembalian masing-masing, jadi sangat penting untuk mempertimbangkan tujuan keuangan dan toleransi risiko Anda saat memilih investasi. Jika Anda butuh panduan dalam memilih pilihan investasi yang tepat atau memiliki pertanyaan tentang produk investasi kami, penasihat investasi kami akan senang membantu Anda."
+    },
+    {
+      "question": "Bagaimana cara mengubah informasi pribadi saya dalam catatan bank?",
+      "answer": "Untuk mengubah informasi pribadi Anda, seperti alamat, nomor telepon, atau email, Anda dapat mengunjungi cabang kami dan berbicara dengan perwakilan layanan pelanggan. Mereka akan memandu Anda melalui prosesnya dan membantu Anda memperbarui informasi Anda dalam catatan kami. Sangat penting untuk menjaga rincian pribadi Anda tetap terbaru guna memastikan komunikasi dan pengelolaan akun yang lancar. Jika Anda memiliki kekhawatiran atau pertanyaan khusus tentang memperbarui informasi pribadi Anda, silakan bertanya!"
+    }
+  ]
+}
